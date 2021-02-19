@@ -1,0 +1,22 @@
+{
+  "name": "ks",
+  "version": "1.0.0",
+  "description": "na",
+  "main": "sure",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nice"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "kristen",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "validator": "^13.5.2"
+  }
+}
